@@ -1,0 +1,21 @@
+body{
+	background-image: url(build.jpg);
+	overflow: hidden;
+}
+
+.fiona{
+	padding: 10em;
+}
+.fio{
+	position: relative;
+	left: 70em;
+}
+.mum{
+	color: orange;
+	font-size: 2em;
+}
+.dee {
+	border-radius: 85%;
+	width: 100%;
+	
+}
