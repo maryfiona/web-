@@ -1,5 +1,6 @@
 body{
 	background-image: url(build.jpg);
+	background-size: cover;
 	overflow: hidden;
 }
 
